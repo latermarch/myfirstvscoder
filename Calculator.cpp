@@ -17,7 +17,10 @@ int main()
     result=c.Calculate(x,y,oper);
     cout<<"Reuslt is "<<result<<endl;
     cin.ignore();
+
+    
     cin.get();
+    
     return 0;
 }
 
